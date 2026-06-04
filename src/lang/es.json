@@ -1,0 +1,77 @@
+{
+  "jugar": "JUGAR",
+  "cambiarIdioma": "Cambiar Idioma",
+  "tienda": "TIENDA",
+  "puntosDisponibles": "Puntos disponibles",
+  "xClick": "x Click",
+  "cps": "CPS",
+  "nivel": "Lvl",
+  "puntos": "pts",
+  "tier1": "🌱 TIER 1: La Granja Inicial",
+  "tier2": "🚜 TIER 2: Automatización y Expansión",
+  "tier3": "🏭 TIER 3: Industrialización Avanzada",
+  "tier4": "🚀 TIER 4: Era Espacial y Científica",
+  "tier5": "🌌 TIER 5: Control Cósmico y Divino",
+  "descClick": "Mejora tu técnica. Aumenta el poder de click en",
+  "descCps": "Automatización pura. Genera",
+  "descCpsSufijo": "semillas por segundo.",
+  "textItems": "Necesitas",
+  "items": [
+    "Dedo Entrenado", "Semilla de Girasol", "Rodaja de Pepino", "Bebedero Automático", "Gusano Premium",
+    "Nido de Paja", "Gato Espantapájaros", "Campana de Llamada", "Pala de Grano", "Ventilador de Gallinero",
+    "Luz Infrarroja", "Radio Vieja", "Vitaminas C", "Comedero Extra", "Puerta Automática",
+    "Percha Cómoda", "Espolvoreador de Tierra", "Incubadora Básica", "Música Relajante", "Dedo de Cobre",
+    "Gallina Ayudante", "Gallo Madrugador", "Cerca Reforzada", "Guitarra Acústica", "Espantapájaros Robótico",
+    "Carretilla Motorizada", "Silo de Granos", "Molino de Viento", "Sistema de Riego", "Tractor Pequeño",
+    "Pintura Blanca (5 Litros)", "Alfalfa Mágica", "Perro Pastor", "Granero Espacioso", "Dedo de Plata",
+    "Recolector Automático", "Cintas Transportadoras", "Empaquetadora de Huevos", "Camión de Reparto", "Contrato Local",
+    "Fábrica de Pienso", "Laboratorio Genético", "Gallina Ciborg", "Tractor Láser", "Dedo de Oro",
+    "Incubadora Cuántica", "Dron Recolector", "Satélite Avícola", "Clonador de Huevos", "Rayo Mutante",
+    "Planta de Energía", "PolloGPT", "Máquina del Tiempo Básica", "Amplificador de Canto", "Solo de Guitarra Eléctrica",
+    "Ingeniería Avícola", "Granja Subterránea", "Transportador de Materia", "Reactor de Semillas", "Dedo de Platino",
+    "Portal Dimensional", "Gallina Alienígena", "Nave Espacial", "Sede en Noruega", "Esfera de Dyson Avícola",
+    "Manipulador de Gravedad", "Agujero Negro de Bolsillo", "Filosofía Avícola Dager", "Dedo de Diamante", "Multiverso de Huevos",
+    "Acelerador de Partículas", "Simulador de Realidad", "Granja Orbital", "Transmutador de Elementos", "Rayo de Crecimiento",
+    "Cosechadora Estelar", "Gallina de Energía Pura", "Sincronizador Cuántico", "Paradoja Temporal", "Dedo de Antimateria",
+    "Creador de Galaxias", "El Huevo Cósmico", "Pollo Omnisciente", "Dedo de Dios", "Motor de Probabilidad",
+    "Singularidad Avícola", "Guardián del Tiempo", "Dimensión de Semillas", "Tejedor de Realidades", "Ecuación Definitiva",
+    "Big Bang Avícola", "Nexo Cósmico", "Trascendencia Pollo", "Arquitecto del Universo", "Vacío Infinito",
+    "Resonancia del Alma", "Convergencia Total", "El Origen de Todo", "Sabiduría Infinita", "Dedo de lo Absoluto"
+  ],
+  "achievementsData": [
+  {
+    "nombre": "¡Nació el Pollito!",
+    "desc": "Haz tu primer click."
+  },
+  {
+    "nombre": "Granjero Amateur",
+    "desc": "Acumulá 1.000 semillas históricas."
+  },
+  {
+    "nombre": "Comprador Compulsivo",
+    "desc": "Comprá 10 ítems en total."
+  },
+  {
+    "nombre": "Llegaste al Tier 2",
+    "desc": "Desbloqueá tu primer ítem del Tier 2."
+  },
+  {
+    "nombre": "Rey de la Granja",
+    "desc": "Acumulá 1.000.000 semillas históricas."
+  }
+  ],
+  "shopData": [
+  {
+    "nombre": "Pack Huevo de Oro",
+    "desc": "Desbloquea el Tier 2 inmediatamente y da un multiplicador de CPS x2 permanente."
+  },
+  {
+    "nombre": "Pack Cohete Espacial",
+    "desc": "Desbloquea el Tier 3 inmediatamente y te da un multiplicador de CPS x5 permanente."
+  },
+  {
+    "nombre": "Pack Diamante Cósmico",
+    "desc": "Desbloquea el Tier 4, CPS x10 y Click x5 permanentes. Solo los verdaderos campeones."
+  }
+  ]
+}

@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reseteos mínimos para que parezca un juego de PC */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  overflow: hidden;
+  user-select: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.fondo-juego {
+  background-image: url('./assets/fondoChicken.webp'); /* o .jpg, .webp */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* 🐣 NUEVA ANIMACIÓN PARA EL POLLITO (Más rápida y menos transparente) */
+@keyframes pollitoRespirar {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.92; /* No se vuelve tan transparente */
+    transform: scale(1.01); /* Le da un pequeño efecto de latido */
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.animate-pollito-rapido {
+  animation: pollitoRespirar 1.2s ease-in-out infinite; /* Ciclo más rápido */
 }
 
-.App-link {
-  color: #61dafb;
+/* 🌾 ANIMACIÓN PARA LAS SEMILLITAS FLOTANTES */
+@keyframes flotarSemilla {
+  0% {
+    transform: translate(-50%, -50%) translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -50%) translateY(-120px) scale(1.4); /* Sube y se agranda */
+    opacity: 0; /* Desaparece al final */
+  }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.animate-semilla-flotante {
+  animation: flotarSemilla 0.8s ease-out forwards;
 }

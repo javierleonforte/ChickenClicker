@@ -1,0 +1,77 @@
+{
+  "jugar": "PLAY",
+  "cambiarIdioma": "Change Language",
+  "tienda": "SHOP",
+  "puntosDisponibles": "Available points",
+  "xClick": "x Click",
+  "cps": "CPS",
+  "nivel": "Lvl",
+  "puntos": "pts",
+  "tier1": "🌱 TIER 1: The Starting Farm",
+  "tier2": "🚜 TIER 2: Automation & Expansion",
+  "tier3": "🏭 TIER 3: Advanced Industrialization",
+  "tier4": "🚀 TIER 4: Space & Science Age",
+  "tier5": "🌌 TIER 5: Cosmic & Divine Control",
+  "descClick": "Refine your technique. Increases click power by",
+  "descCps": "Pure automation. Generates",
+  "descCpsSufijo": "seeds per second.",
+  "textItems": "You need",
+  "items": [
+    "Trained Finger", "Sunflower Seed", "Cucumber Slice", "Auto Waterer", "Premium Worm",
+    "Straw Nest", "Scarecrow Cat", "Calling Bell", "Grain Shovel", "Coop Fan",
+    "Infrared Light", "Old Radio", "Vitamin C", "Extra Feeder", "Automatic Door",
+    "Comfy Perch", "Dust Sprinkler", "Basic Incubator", "Relaxing Music", "Copper Finger",
+    "Helper Hen", "Early Rooster", "Reinforced Fence", "Acoustic Guitar", "Robotic Scarecrow",
+    "Motorized Wheelbarrow", "Grain Silo", "Windmill", "Irrigation System", "Small Tractor",
+    "White Paint (5 Liters)", "Magic Alfalfa", "Sheepdog", "Spacious Barn", "Silver Finger",
+    "Auto Harvester", "Conveyor Belts", "Egg Packager", "Delivery Truck", "Local Contract",
+    "Feed Factory", "Genetic Lab", "Cyborg Hen", "Laser Tractor", "Gold Finger",
+    "Quantum Incubator", "Harvesting Drone", "Poultry Satellite", "Egg Cloner", "Mutant Ray",
+    "Power Plant", "ChickenGPT", "Basic Time Machine", "Song Amplifier", "Electric Guitar Solo",
+    "Poultry Engineering", "Underground Farm", "Matter Transporter", "Seed Reactor", "Platinum Finger",
+    "Dimensional Portal", "Alien Hen", "Spaceship", "Norway Headquarters", "Avian Dyson Sphere",
+    "Gravity Manipulator", "Pocket Black Hole", "Dager Poultry Philosophy", "Diamond Finger", "Egg Multiverse",
+    "Particle Accelerator", "Reality Simulator", "Orbital Farm", "Element Transmuter", "Growth Ray",
+    "Stellar Harvester", "Pure Energy Hen", "Quantum Synchronizer", "Temporal Paradox", "Antimatter Finger",
+    "Galaxy Creator", "The Cosmic Egg", "Omniscient Chicken", "Finger of God", "Probability Engine",
+    "Poultry Singularity", "Time Guardian", "Seed Dimension", "Reality Weaver", "The Final Equation",
+    "Avian Big Bang", "Cosmic Nexus", "Chicken Transcendence", "Universe Architect", "Infinite Void",
+    "Soul Resonance", "Total Convergence", "The Origin of All", "Infinite Wisdom", "Finger of the Absolute"
+  ],
+  "achievementsData": [
+  {
+    "nombre": "The Chick is Born!",
+    "desc": "Make your first click."
+  },
+  {
+    "nombre": "Amateur Farmer",
+    "desc": "Accumulate 1,000 historical seeds."
+  },
+  {
+    "nombre": "Compulsive Buyer",
+    "desc": "Buy 10 items in total."
+  },
+  {
+    "nombre": "Reached Tier 2",
+    "desc": "Unlock your first Tier 2 item."
+  },
+  {
+    "nombre": "Farm King",
+    "desc": "Accumulate 1,000,000 historical seeds."
+  }
+  ],
+  "shopData": [
+  {
+    "nombre": "Golden Egg Pack",
+    "desc": "Unlocks Tier 2 inmediately and gives you a permanent CPS x2 multiplier."
+  },
+  {
+    "nombre": "Space Rocket Pack",
+    "desc": "Unlocks Tier 3 immediately and gives you a permanent CPS x5 multiplier."
+  },
+  {
+    "nombre": "Cosmic Diamond Pack",
+    "desc": "Unlocks Tier 4, CPS x10 and Click x5 permanent. For true champions only."
+  }
+  ]
+}
