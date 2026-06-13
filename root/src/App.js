@@ -4,7 +4,6 @@ import { getItemsData } from './itemsData';
 import { ACHIEVEMENTS_DATA } from './achievementsData';
 import { P2W_PACKS } from './shopData';
 import './App.css';
-import imgDefaultError from './assets/defaultIconError.png'
 
 const PollitoSVG = () => (
   <svg viewBox="0 0 100 100" className="w-64 h-64 md:w-80 md:h-80 drop-shadow-[0_20px_20px_rgba(0,0,0,0.4)] transition-transform" xmlns="http://www.w3.org/2000/svg">
